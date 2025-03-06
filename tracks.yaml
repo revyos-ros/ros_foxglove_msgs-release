@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/ros_foxglove_msgs-release
+release_repo_url: git@github.com:revyos-ros/ros_foxglove_msgs-release.git
 tracks:
   foxy:
     actions:
