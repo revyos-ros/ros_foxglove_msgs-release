@@ -1,3 +1,26 @@
+## foxglove_msgs (jazzy) - 3.1.0-1
+
+The packages in the `foxglove_msgs` repository were released into the `jazzy` distro by running `/root/venv/bin/bloom-release -r jazzy foxglove_msgs --override-release-repository-push-url git@github.com:revyos-ros/ros_foxglove_msgs-release.git` on `Thu, 06 Mar 2025 14:24:21 -0000`
+
+The `foxglove_msgs` package was released.
+
+Version of package(s) in repository `foxglove_msgs`:
+
+- upstream repository: https://github.com/foxglove/schemas.git
+- release repository: https://github.com/revyos-ros/ros_foxglove_msgs-release.git
+- rosdistro version: `3.1.0-1`
+- old version: `3.0.0-4`
+- new version: `3.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## foxglove_msgs (jazzy) - 3.0.0-4
 
 The packages in the `foxglove_msgs` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy foxglove_msgs --override-release-repository-push-url git@github.com:revyos-ros/ros_foxglove_msgs-release` on `Fri, 21 Jun 2024 04:58:15 -0000`
